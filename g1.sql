@@ -14,6 +14,7 @@ insert into qq values('trg',5,563458,'gtrfd','tgr',453),
 ('dgtr',5,365,'tgrdf','resg',534663);
 select* from qq;
 select * from qq;
+select * from qq;
 select name,year from qq;
 alter table qq add sno int;
 alter table qq rename column sno to uno;
